@@ -83,10 +83,9 @@ Strategic Decision-Making: Helps marketing, operations, and finance teams align 
 
 Forecasting & Planning: Understand seasonality and predict future sales trends.
 
-# Screenshort
-
-Show what the dashboard looks like. - L[Alt text](https://github.com/username/repo/assets/image.png)
-Example: 1[Dashboard_Previewl](https://github.com/ankesh4283/Amazon-Sales-Insights-Dashboard/blob/main/Sales%20Analysis.png)
+### 	Screenshots / Demos
+Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
+Example: ![Dashboard Preview](https://github.com/ankesh4283/Amazon-Sales-Insights-Dashboard/blob/main/Sales%20Analysis.png)
 
 
 
